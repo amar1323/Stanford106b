@@ -1,0 +1,12 @@
+# This board is a medium difficulty board
+# for the computer to solve (half of marbles
+# are already gone).
+7
+7
+XX---XX
+XX---XX
+OOO----
+OOO----
+OOOO---
+XXOOOXX
+XXOOOXX
